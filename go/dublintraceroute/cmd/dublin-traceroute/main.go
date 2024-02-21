@@ -14,9 +14,9 @@ import (
 
 	flag "github.com/spf13/pflag"
 
-	"github.com/insomniacslk/dublin-traceroute/go/dublintraceroute"
-	"github.com/insomniacslk/dublin-traceroute/go/dublintraceroute/probes/probev4"
-	"github.com/insomniacslk/dublin-traceroute/go/dublintraceroute/probes/probev6"
+	"github.com/ken-schneider/dublin-traceroute/go/dublintraceroute"
+	"github.com/ken-schneider/dublin-traceroute/go/dublintraceroute/probes/probev4"
+	"github.com/ken-schneider/dublin-traceroute/go/dublintraceroute/probes/probev6"
 )
 
 // Program constants and default values

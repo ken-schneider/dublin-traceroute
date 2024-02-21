@@ -7,8 +7,8 @@ import (
 	"net"
 	"time"
 
-	inet "github.com/insomniacslk/dublin-traceroute/go/dublintraceroute/net"
-	"github.com/insomniacslk/dublin-traceroute/go/dublintraceroute/probes"
+	inet "github.com/ken-schneider/dublin-traceroute/go/dublintraceroute/net"
+	"github.com/ken-schneider/dublin-traceroute/go/dublintraceroute/probes"
 	"golang.org/x/net/ipv6"
 )
 
